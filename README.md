@@ -216,11 +216,8 @@ The app opens in your browser at `http://localhost:8501`.
 
 ## 👤 Author
 
-**YOUR NAME**
+**JAPKIRAT KAUR**
 B.Tech Computer Science and Engineering
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Japkirat7007)
 
 ---
 
