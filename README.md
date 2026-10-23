@@ -1,4 +1,4 @@
-Bank Customer Churn Prediction
+#Bank Customer Churn Prediction
 
 An end-to-end machine learning project that predicts which bank customers are likely to leave, groups them into risk levels, and serves the results in an interactive web app.
 
